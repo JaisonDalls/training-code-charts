@@ -1,4 +1,5 @@
 #Breve Introdução
+
 Este documento surgiu depois que tive um desafio na empresa que prestava serviços no front, onde o interesse era inserir um gráfico de mapeamento de acessos de usuários em uma determinada área geográfica.
 
 A princípio a ideia era capturar os acessos de clientes de um portal na região do Brasil, por meio de um simples código usando o geolocation fornecido pelo próprío equipamento do usuário.
