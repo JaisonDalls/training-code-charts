@@ -22,8 +22,10 @@ Durante a leitura do tutorial foi recomendado baixar os módulos via [CDN](https
 
 3. Dados que serão carregados.
     - Para obter os dados, escrevi o código num arquivo js que chamei de **config-graphic.js**.
-      `anychart.data.loadJsonFile ("https://static.anychart.com/git-storage/word-press/data/choropleth-map-tutorial/data.json", function (data) {
-      console.log(data);
-      });`   
+      ```   
+        anychart.data.loadJsonFile ("https://static.anychart.com/git-storage/word-press/data/choropleth-map-tutorial/data.json", function (data) {
+            console.log(data);
+        });
+      ```   
     
    
