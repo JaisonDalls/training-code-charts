@@ -28,4 +28,7 @@ Durante a leitura do tutorial foi recomendado baixar os módulos via [CDN](https
         });
       ```   
     
-   
+Caso tenha interesse em saber mais sobre esse projeto, ou entrar em contato comigo caso surgir alguma dúvida, você também pode seguir o tutorial, segue os links abaixo:
+- [Site do tutorial](https://edrodrigues.com.br/blog/criando-a-visualizacao-de-dados-de-mapas-de-choropleth-usando-javascript-no-covid-19-stats/).
+- Conversar pelo [LinkedIn](https://www.linkedin.com/in/jaisondallabrida).
+- Conversar pelo [Whatsapp ](https://api.whatsapp.com/send?phone=5547996612896&text=Ol%C3%A1%2C%20Jaison!%20Eu%20li%20sobre%20o%20seu%20projeto%20do%20GitHub%20e%20gostaria%20de%20trocar%20uma%20ideia.).
