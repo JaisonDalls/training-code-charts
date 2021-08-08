@@ -27,6 +27,8 @@ Durante a leitura do tutorial foi recomendado baixar os módulos via [CDN](https
             console.log(data);
         });
       ```   
+4. Amostra de como será apresentado o projeto:
+    [![](img/chart-world-covid.png)](https://edrodrigues.com.br/blog/criando-a-visualizacao-de-dados-de-mapas-de-choropleth-usando-javascript-no-covid-19-stats/)
     
 Caso tenha interesse em saber mais sobre esse projeto, ou entrar em contato comigo caso surgir alguma dúvida, você também pode seguir o tutorial, segue os links abaixo:
 - [Site do tutorial](https://edrodrigues.com.br/blog/criando-a-visualizacao-de-dados-de-mapas-de-choropleth-usando-javascript-no-covid-19-stats/).
